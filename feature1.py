@@ -5,6 +5,6 @@ class superclass():
 	pass
 
 def änderung():
-	return "geändert"
+	return "dert"
 
 print("Hallo")
